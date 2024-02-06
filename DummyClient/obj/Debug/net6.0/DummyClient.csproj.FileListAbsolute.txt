@@ -1,0 +1,14 @@
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\bin\Debug\net6.0\DummyClient.exe
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\bin\Debug\net6.0\DummyClient.deps.json
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\bin\Debug\net6.0\DummyClient.runtimeconfig.json
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\bin\Debug\net6.0\DummyClient.dll
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\bin\Debug\net6.0\DummyClient.pdb
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\obj\Debug\net6.0\DummyClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\obj\Debug\net6.0\DummyClient.AssemblyInfoInputs.cache
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\obj\Debug\net6.0\DummyClient.AssemblyInfo.cs
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\obj\Debug\net6.0\DummyClient.csproj.CoreCompileInputs.cache
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\obj\Debug\net6.0\DummyClient.dll
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\obj\Debug\net6.0\refint\DummyClient.dll
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\obj\Debug\net6.0\DummyClient.pdb
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\obj\Debug\net6.0\DummyClient.genruntimeconfig.cache
+C:\Users\dongju\OneDrive - dgu.ac.kr\프로젝트s\ServerStudy\DummyClient\obj\Debug\net6.0\ref\DummyClient.dll
